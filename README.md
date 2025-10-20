@@ -1,6 +1,6 @@
 ### Hi there! I'm Kadir 👋
 
-I'm a 3rd-year Computer Engineering student at Doğuş University. I'm passionate about software development, database management, and system integration. I have intermediate skills in **C++**, **Python**, and **Java**, and I'm proficient in English.
+I'm a 4rd-year Computer Engineering student at Doğuş University. I'm passionate about software development, database management, and system integration. I have intermediate skills in **C++**, **Python**, and **Java**, and I'm proficient in English.
 
 
 🌱 **What I'm learning next:**
