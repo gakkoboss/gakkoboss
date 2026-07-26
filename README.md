@@ -3,12 +3,12 @@
 I'm a 4rd-year Computer Engineering student at Doğuş University. I'm passionate about software development, database management, and system integration. I have intermediate skills in **C++**, **Python**, and **Java**, and I'm proficient in English.
 
 
-🌱 **What I'm learning next:**
+ **What I'm learning next:**
 - Microservices architecture
 - Java and Spring Boot
 - Basics of AI and machine learning
 
-📫 **How to reach me:** 
+ **How to reach me:** 
 - kadirsancar0@gmail.com
 
 .
